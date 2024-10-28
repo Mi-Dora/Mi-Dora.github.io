@@ -92,17 +92,18 @@ Research experience
 
 Skills
 ======
-* Programming Skill
+* **Programming Skill**
   * Python, C/C++, Matlab, C#, Java
-  * Git, GDB, Bash, SSH
-* Robotics
+  * Git, GDB, Bash, SSH, PyTest, GTest
+* **Robotics**
   * ROS1/2, RViz, Gazebo, Matlab Robotics Toolbox
   * RGB-D, Lidar, Radar
   * Manipulator Kinematics
-* AI/ML
+* **AI/ML**
   * Pytorch, Tensorflow, Numpy
-* Network & Cloud Technic
-  * AWS, Docker, K8s, WireShark, TCP, Socket
+  * CNN, GNN, RNN, GAN
+* **Network & Cloud Technic**
+  * AWS, Docker, K8s, FAAS, WireShark, TCP, Socket
 
 <!-- Publications
 ======
