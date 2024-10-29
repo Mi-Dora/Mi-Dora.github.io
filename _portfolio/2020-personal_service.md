@@ -1,6 +1,7 @@
 ---
 title: "Personal Cloud Service"
-excerpt: "I built a personal cloud service at home, covering everything from hardware to software. It offers VPN connectivity, file storage, media services, and an ML computing node, among other functionalities. <br/><img src='/images/home_network.png'>"
+excerpt: "<p><b>2020</b></p>
+I built a personal cloud service at home, covering everything from hardware to software. It offers VPN connectivity, file storage, media services, and an ML computing node, among other functionalities. <br/><img src='/images/home_network.png' width='500'>"
 collection: projects
 ---
 
