@@ -33,24 +33,25 @@ Work experience
 ======
 * **Algorithm Engineer** @ VisionNav Robotics
   * *Sep 2024 - Present*
-  <!-- * Duties includes: -->
-    <!-- * Research and develop multi-AGV scheduling algorithm. -->
-    <!-- * Run simulation to verify and improve the automated warehouse solution. -->
+  * Duties includes:
+    * Research and develop multi-AGV scheduling algorithm.
+    * Do algorithm and system test.
+    * Run simulation to verify and improve the automated warehouse solution.
 
 * **Software Develop Engineer Co-op** @ Amazon Robotics
   * *Aug 2023 - Dec 2023*
-  <!-- * Duties includes: -->
-    <!-- * Individually developed a tool to convert SolidWorks to OpenUSD 3D model for building a digital twin system. -->
-    <!-- * Performed regular code review, integration, and collaborated with colleagues to make customer demand clear. -->
+  * Duties includes: -->
+    * Individually developed a tool to convert SolidWorks to OpenUSD 3D model for building a digital twin system.
+    * Performed regular code review, integration, and collaborated with colleagues to make customer demand clear.
     <!-- * Built Python API to extract joints, mesh, did space transform and mapped SolidWorks CAD information into OpenUSD format, which replicate a 1:1 3D meshes ready for simulation in NVIDIA Isaac and synthetic data. -->
-    <!-- *	Integrated as core part of the Robotics Simulation Asset Pipeline, accelerating the workflow about 60 times. -->
+    *	Integrate with the Robotics Simulation Asset Pipeline, accelerating the workflow about 60 times.
 
 * **Software Develop Engineer Intern** @ SLB / Schlumberger
   * *May 2023 - Aug 2023*
-  <!-- * Duties includes: -->
-    <!-- * Developed SQL database on Azure for Thrubit tool operational check data, handling unformatted source data. -->
-    <!-- *	Designed the Power BI report for data visualization and analysis for 9 types of Thrubit tools. -->
-    <!-- *	Deployed the automatic SQL database update by querying SLB cloud server and PBI report update pipeline. -->
+  * Duties includes: -->
+      * Developed SQL database on Azure for Thrubit tool operational check data, handling unformatted source data.
+      *	Designed the Power BI report for data visualization and analysis for 9 types of Thrubit tools. -->
+      *	Deployed the automatic SQL database update by querying SLB cloud server and PBI report update pipeline.
     
 * **Graduate Teaching Assistant** @ GT
   * *Jan 2023 - May 2023*
