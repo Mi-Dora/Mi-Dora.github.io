@@ -37,7 +37,7 @@ Work experience
   * Duties includes:
     * Research and develop multi-AGV scheduling algorithm.
     * Do algorithm and system test.
-    * Run simulation to verify and improve the automated warehouse solution. -->
+    * Develop the 3D Simulator and run simulation to verify and improve the automated warehouse solution. -->
 
 * **Software Develop Engineer Co-op** @ Amazon Robotics
   * *Aug 2023 - Dec 2023*
